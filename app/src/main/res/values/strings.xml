@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitLifeLogin</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
